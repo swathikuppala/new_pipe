@@ -1,0 +1,1 @@
+docker build . -f Dockerfile.base -t swathianits/demo-1.1.jar
